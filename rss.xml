@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Just3DThings]]></title>
+        <description><![CDATA[Just3DThings]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 08 Jan 2016 20:30:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test Post..... LirikThump]]></title>
+            <description><![CDATA[<article><h1>Test Post..... LirikThump</h1><p>Seems easy</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ba58d75eb0368f482e34c872e62e61b6b951c33.jpg"></article>]]></description>
+            <link>undefinedtest-post-lirikthump/index.html</link>
+            <guid isPermaLink="false">3c62f924-4bfa-4b55-bc23-d0fbd8ac0443</guid>
+            <pubDate>Fri, 08 Jan 2016 20:30:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
