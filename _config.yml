@@ -1,7 +1,7 @@
 name: Just3DThings
 favicon: null
-layout_spectrum: 0.39186951890587807
-typography_spectrum: 0.5356734492816031
+layout_spectrum: 0
+typography_spectrum: 0.65388
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.22061057132668793
+  brandStrength: 0.3125
   lightness: 0.10579574154689908
   saturation: 0.14728961931541562
   rhythmicContrast: 0.23732725530862808
